@@ -5,6 +5,8 @@ The work invites viewers to experience the gradual dismantling, transformation a
 
 I independently developed the concept, narrative structure, visual design and interactions. I used a large language model to assist with HTML, CSS and JavaScript code generation, debugging and iteration, bringing the idea to life as a single-page interactive website.
 
+🔗 **[Experience the live website](https://kangzhao25el.github.io/Digital-funeral/)**
+
 《一个女孩的数字葬礼》是一个以数字身份、记忆与消逝为主题的交互式网页作品，也是我在伦敦国王学院 Digital Image 课程中完成的个人项目。
 
 作品让观众逐步经历一个女孩的数字形象被拆解、转化与消隐的过程。随着叙事推进，图像逐渐被元数据取代，最终以一条平直的生命线收尾，邀请观众思考：当一个人被转化为可存储、可读取的数据，我们究竟保留了她的什么？
